@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @YatriRPatel
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning c language,java,css
